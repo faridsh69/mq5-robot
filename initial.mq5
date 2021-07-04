@@ -85,6 +85,7 @@ Alert(ORDER_FILLING_RETURN);
   Alert("PositionsTotal: ", PositionsTotal());
 
   return(INIT_SUCCEEDED);
+  
 }
 
 
